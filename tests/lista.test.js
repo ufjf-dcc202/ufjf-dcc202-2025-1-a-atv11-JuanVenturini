@@ -1,3 +1,4 @@
+
 import { expect, test } from 'vitest';
 import { getLista, adicionaNaLista, removeDaLista, limpaLista } from '../lista.js';
 
